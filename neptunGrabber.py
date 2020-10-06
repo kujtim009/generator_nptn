@@ -44,6 +44,10 @@ def getDipLinks(link):
 # url = ["url1", "url2", "url3"]
 
 
+def test:
+    pass
+
+
 if __name__ == "__main__":
     print("starting")
     categorit = getCategories(mainUrl)
