@@ -44,7 +44,7 @@ def getDipLinks(link):
 # url = ["url1", "url2", "url3"]
 
 
-def test:
+def test():
     pass
 
 
